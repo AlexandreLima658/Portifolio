@@ -150,7 +150,7 @@ i.menu-mobile{
 }
 
 /* Animação */
-/*
+
 [data-anime] {
     opacity: 0;
     transition: 1s;
@@ -175,7 +175,7 @@ i.menu-mobile{
 [data-anime].animate {
     opacity: 1;
     transform: translate3d(0, 0, 0);
-} */
+}
 
 @media (max-width: 1024px){
     #header {
