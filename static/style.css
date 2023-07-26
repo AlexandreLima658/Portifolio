@@ -118,10 +118,12 @@ section#inicio span#subtitle {
 
 section#inicio div#arraste {
     width: 9rem;
+    height: 5rem;
 }
 
 section#inicio div#arraste a{
     text-decoration: none;
+    cursor: pointer;
     color: #fff;
 }
 
@@ -253,4 +255,8 @@ i.menu-mobile{
     left: -8px;
     border: 2px solid #1f5297;
     background: #ffffff;
+}
+
+.img-clean{
+    border-radius: 8px;
 }
